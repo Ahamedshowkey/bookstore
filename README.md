@@ -118,7 +118,7 @@ src/
 
 | Cart | Orders | Admin Panel |
 |------|--------|-------------|
-| ![Cart](docs/cart.png) | ![Orders](docs/orders.png) | ![Admin](docs/admin.png) |
+| ![Cart](/cart.png) | ![Orders](/orders.png) | ![Admin](/admin.png) |
 
 ---
 
