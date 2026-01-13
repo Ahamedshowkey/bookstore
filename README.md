@@ -114,7 +114,7 @@ src/
 ### UI Screenshots  
 | Home Page | Login | Book Dashboard |
 |-----------|-------|----------------|
-| ![Home](docs/home.png) | ![Login](docs/login.png) | ![Books](docs/books.png) |
+| ![Home](/home.png) | ![Login](/login.png) | ![Books](/books.png) |
 
 | Cart | Orders | Admin Panel |
 |------|--------|-------------|
